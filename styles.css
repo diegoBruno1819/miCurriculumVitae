@@ -1,0 +1,40 @@
+body {
+    border-right: 6px blue solid;
+    border-top: 6px blue solid;
+    border-bottom: 6px blue solid;
+    background-color: blue;
+}
+
+.hr { 
+    border-top: 10px blue solid;
+}
+
+.separacion {
+    margin-left: 40px;
+    margin-right: 20px;
+}
+
+.nombre {
+    color: blue;
+    font-size: 75px;
+}
+.subtitulo{
+    font-size: 45px;
+    color: blue;
+}
+
+.subtitulo2 {
+    font-size: 35px;
+    color: blue;
+}
+
+.colorLetra {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+p, a, li {
+    color: blue;
+}
+
