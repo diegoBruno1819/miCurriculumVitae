@@ -10,6 +10,10 @@ body {
     border-bottom: 6px blue solid;
 }
 
+.img-fluid {
+    border-radius: 50%;
+}
+
 .hr { 
     border-top: 10px blue solid;
 }
